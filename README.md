@@ -4,4 +4,4 @@ I am a Software Engineer working with a [FinTech](https://renewbuy.com) based ou
 
 I have been developing backend for web applications with Python using Django and Flask, and some of the JS, HTML and CSS at client side. 
 
-Also, building Cloud solutions with AWS, you can read more about me [here](https://dadwalakshay.pythonanywhere.com). 
+Also, building Cloud solutions with AWS, you can read more about me [here](https://dadwalakshay.github.io). 
