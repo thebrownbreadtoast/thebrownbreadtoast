@@ -1,7 +1,9 @@
 ### Hi there, I am Akshay Dadwal
 
-I am a Software Engineer working with a [FinTech](https://renewbuy.com) based out of Gurgaon since Aug'18. 
+I am a Software Engineer based out of New Delhi, India.
 
-Using Python, JS and various RDBMS as primary tech-stack.
+I've worked with two startup companies in the past 4 years, and gained experience on Python and Node.js tech stacks.
 
-Also, building Cloud solutions on AWS, you can read more about me [here](https://dadwalakshay.github.io). 
+I've worked extensively with AWS and GCP to design efficient Cloud Solutions and Infrastructure to host and maintain Web Applications on production.
+
+You can read more about me [here](https://dadwalakshay.github.io). 
