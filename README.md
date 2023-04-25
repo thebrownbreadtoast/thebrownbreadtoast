@@ -2,8 +2,8 @@
 
 I am a Backend Web Developer based out of New Delhi, India
 
-I have been collaborating with startup companies for past 4 years, primarily working with Django, FastAPI and Express.js to build B2B applications
+I have been collaborating with several startups for past 4 years and primarily working with Django, FastAPI and Express.js to build B2B Web Applications
 
-I have been using AWS and GCP to design Cloud Infrastructure and to deploy Backend services
+I have been using AWS and GCP to design Cloud Infrastructure for Web Applications
 
 You can read more about me [here.](https://dadwalakshay.github.io)
